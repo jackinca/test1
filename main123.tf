@@ -8,7 +8,7 @@ terraform {
 }
 
 provider "google" {
-  credentials = file("bright-link-407120-45661605f9b7.json")
+  credentials = file("bright-link-407120-45661605f9b17.json")
 
   project = "bright-link-407120"
   region  = "us-central1"
